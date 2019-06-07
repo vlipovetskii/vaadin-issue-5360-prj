@@ -1,3 +1,3 @@
-SET JAVA_HOME=c:\APPS\jdk-12
+rem SET JAVA_HOME=...
 cd vlfsoft.issue5360.springboot.app
 call ..\gradlew bootJar

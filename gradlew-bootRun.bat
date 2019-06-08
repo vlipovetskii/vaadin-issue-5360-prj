@@ -1,4 +1,4 @@
 rem SET JAVA_HOME=...
-cd vlfsoft.issue0001.springboot.app
+cd vlfsoft.issue5360.springboot.app
 call ..\gradlew bootRun
 pause
